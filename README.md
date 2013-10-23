@@ -12,7 +12,7 @@ http://www.angularmemo.com
 
 1. Include the angular-memo.js file in your page.
 2. Add "memo" to your main app module.
-3. Add the directive attribute to your button, like:
+3. Choose and add the directive attribute to your button (see the **Directives** section), like:
 
 ```javascript
 memo-top-right={OPTIONS}
@@ -36,12 +36,31 @@ $scope.coolThang = {
     "fadeOut" : 1000
     };
 ```
+###Directives
+
+angularMemo has been split into readable directives for explicit functionality.
+
+```memo-right```
+
+```memo-left```
+
+```memo-top-right```
+
+```memo-top-left```
+
+```memo-bottom-right```
+
+```memo-bottom-left```
+
+```memo-web-notify```
 
 ##Options:
 
 ```ease``` **string** Ease type. ```easeOutSine``` and ```easeOutQuart``` currently supported
 
 ```content``` **string** Content of notification, can be html
+
+```attach```  **string** jQuery selector for where to append the notification
 
 ```title```  **string** Title of notification, can be html
 
