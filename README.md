@@ -17,6 +17,25 @@ http://www.angularmemo.com
 ```javascript
 memo-top-right={OPTIONS}
 ```
+From this point, you can add the ```options``` object via inline JSON, like:
+
+```javascript
+<button memo-top-left='{"ease" : "easeOutQuart","content" : "I say HEYY YEAH","title" : "Whats Going on?","width" : "600px", "attachment" : "#wrap"}')>
+</button>
+```
+or in your controller, add a model to the scope:
+
+```javascript
+$scope.coolThang = {
+    "ease" : "easeOutQuart",
+    "content" : "Check me ouut",
+    "title" : "Heck Yeaaah",
+    "width" : "600px",
+    "eventType" : "click",
+    "theme" : "dark",
+    "fadeOut" : 1000
+    };
+```
 
 ##Options:
 
