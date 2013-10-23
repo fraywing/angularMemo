@@ -96,15 +96,15 @@ memo-web-notify
 ##Classes for Styling:
 
 
-|memo-outer
+    memo-outer
 
-  |memo-shell
+    memo-shell
   
-    |memo-title
+    memo-title
    
-    |memo-x
+    memo-x
    
-    |memo-content
+    memo-content
     
     
 ####Notes:
