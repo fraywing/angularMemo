@@ -40,7 +40,33 @@ $scope.coolThang = {
 
 angularMemo has been split into readable directives for explicit functionality.
 
-```memo-right```
+```
+memo-right
+```
+
+```
+memo-left
+```
+
+```
+memo-top-right
+```
+
+```
+memo-top-left
+```
+
+```
+memo-bottom-right
+```
+
+```
+memo-bottom-left
+```
+
+```
+memo-web-notify
+```
 
 
 ##Options:
