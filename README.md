@@ -35,6 +35,8 @@ $scope.coolThang = {
     "theme" : "dark",
     "fadeOut" : 1000
     };
+    
+memo-top-right='coolThang'    
 ```
 ###Directives
 
