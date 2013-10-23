@@ -21,13 +21,21 @@ memo-top-right={OPTIONS}
 ##Options:
 
 ```ease``` **string** Ease type. ```easeOutSine``` and ```easeOutQuart``` currently supported
+
 ```content``` **string** Content of notification, can be html
+
 ```title```  **string** Title of notification, can be html
+
 ```eventType``` **string** Defaults to ```click```
+
 ```width``` **string** The width of the notification, 100% for full screen
+
 ```fadeOut``` **int** In milliseconds, If ```false```, notification requires user close.
+
 ```toggle``` **boolean** When you click the button again, does it go away, or redisplay?
+
 ```theme``` **string** Either ```dark``` or ```light``` at the moment
+
 ```icon``` **string** A url to an image. ONLY FOR THE WEB NOTIFICATION DIRECTIVE
 
 
