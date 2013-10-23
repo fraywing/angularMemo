@@ -54,6 +54,7 @@ angularMemo has been split into readable directives for explicit functionality.
 
 ```memo-web-notify```
 
+
 ##Options:
 
 ```ease``` **string** Ease type. ```easeOutSine``` and ```easeOutQuart``` currently supported
