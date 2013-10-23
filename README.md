@@ -20,7 +20,7 @@ memo-top-right={OPTIONS}
 
 ##Options:
 
-```ease **string** Ease type. ```easeOutSine``` and ```easeOutQuart``` currently supported
+```ease``` **string** Ease type. ```easeOutSine``` and ```easeOutQuart``` currently supported
 ```content``` **string** Content of notification, can be html
 ```title```  **string** Title of notification, can be html
 ```eventType``` **string** Defaults to ```click```
