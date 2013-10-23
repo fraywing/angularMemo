@@ -93,6 +93,13 @@ memo-web-notify
 
 ```icon``` **string** A url to an image. ONLY FOR THE WEB NOTIFICATION DIRECTIVE
 
+##Classes for Styling:
+
+  |memo-outer
+    |memo-shell
+      |memo-title
+      |memo-x
+      |memo-content
 
 ####Notes:
    
