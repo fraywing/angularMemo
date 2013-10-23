@@ -95,11 +95,11 @@ memo-web-notify
 
 ##Classes for Styling:
 
-  |memo-outer
-    |memo-shell
-      |memo-title
-      |memo-x
-      |memo-content
+memo-outer
+  memo-shell
+   memo-title
+   memo-x
+   memo-content
 
 ####Notes:
    
