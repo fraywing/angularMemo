@@ -36,7 +36,7 @@ $scope.coolThang = {
     "fadeOut" : 1000
     };
     
-memo-top-right='coolThang'    
+<div memo-top-right='coolThang'>Click me!</div>
 ```
 ###Directives
 
